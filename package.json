@@ -1,0 +1,19 @@
+{
+  "name": "array-segment",
+  "version": "1.0.4",
+  "description": "Пакет предоставляет функцию которая преобразует отсортированный массив чисел в строку отрезков",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": {
+    "name": "Gladun Vladislav",
+    "email": "s.lancelot.lake@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.2"
+  },
+  "types": "declaration.d.ts"
+}
